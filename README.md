@@ -3,6 +3,8 @@
 ## Overview
 This repository provides a simple and efficient way to deploy Atlassian Jira Software using Docker Compose. With this setup, Jira runs in a containerized environment with PostgreSQL as the database, making it easy to deploy and manage.
 
+![Screenshot](screenshot.png)
+
 ## Features
 - **Easy Deployment**: Spin up Jira Software with just a few commands.
 - **PostgreSQL Integration**: Uses PostgreSQL as the database backend.
